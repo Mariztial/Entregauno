@@ -215,3 +215,7 @@ Encuestar o conversar con personas sobre la preferencia en el uso de elementos, 
 **¿Qué te gustaría aprender en este proyecto?**
 
 Aprender a hacer investigación sobre datos, poder obtener datos de varios lugares, entre otros. Aprender a utilizar bien las aplicaciones que nos piden en las entregas de este proyecto. Y además introducirme bien en temas de reciclaje, y medioambiente. 
+
+[Link video](https://youtu.be/2PLJLfkHZpE)
+
+**PDF de la presentación** (https://drive.google.com/drive/folders/1v5W0--c526E9yYkUgAhUO32l7q934Ocg)
