@@ -25,4 +25,4 @@ Recopilé datos sobre el impacto ambiental de siente tipos de bolsas diferentes;
 •   ¿De que manera le afecta al planeta la existencias de estas bolsas?
 
 
-Los datos fueron obtenidos de: data entregada por Magdlena Ariztía
+Los datos fueron obtenidos de: ¿Chao Bolsas Plásticas? Aprendizaje de la prohibición de bolsas plásticas de comercio en Chile. Tablas de el uso por año de bolsas (de la pagina 26) con la del ciclo de vida (de la pagina 25)
