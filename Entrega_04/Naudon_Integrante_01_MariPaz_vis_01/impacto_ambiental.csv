@@ -1,0 +1,18 @@
+Categoría ,Materialidad,Transporte,Producción bolsas,c/utilizada 2017,c/utilizada 2018,c/utilizada 2019,c/utilizada 2020,c/utilizada 2021,Potencial de Cambio Climático (GWP100) [Kg CO2 eq.],"Ecotoxicidad
+marina [Kg 1,4-
+DBeq.]
+","Potencial de
+acidificación [Kg
+SO2 eq.]
+
+","Consumo de
+agua [M^3]","Agotamiento
+ozono [Kg
+CFC-11 eq.]
+"
+BIOBOLSAS,"Incluye bolsas de ácido poliláctico (PLA) y Mater-Bi (biopolímero, 70% tereftalato de adipato de polibutileno (PBAT), 20% almidón y 10% aditivos)","Marítimo hasta Chile. Luego, del puerto de San Antonio o Valparaíso se trasladan a la fabrica y/o centro de distribución en Santiago","Tres etapas principales de producción: extrusión, soplado y confección (impresión y corte).",3469,3802,5226,5590,6798,1.61E-02,3.39E-04,5.74E-05,1.42E-04,1.14E-07
+BOLSAS PAPEL,De fibra de celulosa con porcentajes de material reciclado entre 0 a 100%.,"Bolsas importadas vienen vía marítima hasta el puerto de San Antonio o Valparaíso y luego, se trasladan a la fabrica y/o centro de distribución en la capital: Santiago. Material local se transporta en camiones desde el sur del país a la capital.","Tres etapas principales de producción: Lavado y filtrado, elaboración de la pasta de celulosa y confección (corte de medidas y unión de las paredes y asas)",168,202,413,812,884,9.39E-03,1.84E-04,2.18E-05,1.36E-04,1.07E-07
+BOLSAS PEAD,De polietileno de alta densidad con porcentajes de material reciclado que varían entre 0 a 50%.,"Marítimo hasta Chile. Luego, del puerto de San Antonio o Valparaíso se trasladan a la fabrica y/o centro de distribución en Santiago.","Tres etapas principales de producción: extrusión, soplado y confección. La confección puede ser a través de procesos de impresión y corte o bien a través de un tejido. Si el material es reciclado, se deben agregar procesos de molienda, lavado y peletizado.",32,186,411,519,851,9.57E-03,6.76E-04,5.03E-05,6.33E-05,8.04E-09
+BOLSAS PEBD,De polietileno de baja densidad.,,,140,489,1897,1612,2123,1.62E-02,8.57E-04,8.16E-05,8.22E-05,1.47E-08
+BOLSAS PP,"De polipropileno, principalmente en formato de tejido no tejido.",,,6636,5342,3113,2651,3136,1.39E-04,1.18E-05,7.72E-07,1.10E-06,1.10E-10
+OTRAS BOLSAS PLÁSTICAS,"Incluye bolsas de tereftalato de polietileno (PET), nylon, poliestireno, poliuretano y policloruro de vinilo (PVC) y algunas de TNT de origen desconocido,",,,1296,902,249,125,210,4.49E-04,2.69E-05,3.04E-06,1.63E-06,2.81E-10
