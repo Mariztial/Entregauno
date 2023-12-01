@@ -2,7 +2,7 @@
 
 *Video de presentación*: https://www.youtube.com/watch?v=5WV6FxWBi0Q
 
-*PDF presentación: https://uccl0-my.sharepoint.com/:b:/g/personal/catalinagallego_uc_cl/Ee75PGQflv5BgpNKv5rhLXsBo4wvN0KMDGtFlQctHi_GaQ?e=XPyuEo
+*PDF presentación: https://uccl0-my.sharepoint.com/:b:/g/personal/catalinagallego_uc_cl/EVYZuixV42xHth_qUDoG-pkB8nq0R9dS9it4-IczaHhUKw?e=XoJz32
 
 *Web story*: acá tuvimos un problema
 https://github.com/Mariztial/Nudo_ecol-gico/actions/runs/7056076489
