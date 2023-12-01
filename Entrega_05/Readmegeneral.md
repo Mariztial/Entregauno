@@ -32,5 +32,8 @@ Integrante 2: María Paz Naudon
 
 Integrante 3: Catalina Gallego
 - Letra B (la segunda parte)
-- Letra C
+- Letra C (parte)
+- Letra D (parte)
+- Letra F
+- Letra G (parte)
 - Presentación PDF
