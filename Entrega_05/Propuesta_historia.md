@@ -1,0 +1,23 @@
+# Propuesta de historia para la entrega final
+qué quieren contar. Debe incluir el análisis de Hipótesis, preguntas a responder y titular del reportaje. Comentario sobre su evolución.
+
+A raíz de las preguntas:
+- ¿es realmente útil la ley 21.100? 
+- ¿Vale el costo de eliminar las bolsas de plástico de los comercios? 
+- ¿Será que las bolsas plásticas desechables y de un solo uso son consideradas como problemáticas en sí mismas o porque están asociadas a un mal uso por parte de los consumidores?
+
+Investigamos, y en base a los antecedentes iniciales, planteamos la siguiente hipótesis:
+
+La implementación de la ley trajo consigo beneficios en cuanto a la reducción del uso de bolsas plásticas, lo que beneficia al ambiente. Sin embargo, en reemplazo de estas, se ha impulsado la generación de bolsas con alto contenido plástico, que dañan de igual forma al medioambiente. La ley es defectuosa ya que provoca que se generen más bolsas de cartón, hay una falta de fiscalización por parte de los municipios, genera incomodidad a la hora de ir a comprar y el reciclaje de bolsas plásticas es insuficiente. Por lo que esta, debería impulsar el uso de bolsas de origen vegetal, lo que causaría un impacto mayor en la mejora y mantenimiento del ambiente.
+
+En este punto de la investigación, pudimos comprobar que, efectivamente la ley 21.100 redujo el uso de bolsas plásticas, pero esto no quiere decir que el medioambiente esté mejor que antes, ya que en sustitución de estas, se generan bolsas de otros tipos de material, que de igual o peor forma, impactan al ecosistema y contribuyen a la contaminación del planeta. Además, concluimos que aquellas bolsas que menos contaminan, y que son una opción para que las personas puedan contar con un recurso para trasladar diferentes elementos, son las de origen vegetal.
+
+Lo anterior, lo quisimos contar a partir de la personalización de un caso concreto: el de Jaime. Esto, con el fin de generar cercanía con el usuario. Partimos con una anecdota vanal y cotidiana. A Jaime se le quedó la bolsa para trasladar los productos que compra en el supermercado. A raíz de este suceso, se presenta la Ley 21.100, y se desarrolla todo lo que conlleva, y los lineamientos de nuestra investigación. Toda la información, se entrega a través de un lenguaje cercano al lector. Parece ser un narrador divertido, que incluso genera comentarios sobre temas que plantea, como por ejemplo, cuando dice "Vaya recuerdos", refiriéndose a la pandemia de 2020. El objetivo de este estilo de narración, es lograr mantener al usuario entretenido, mientras descubre una temática densa, como lo es la contaminación.
+
+El titular del reportaje es: 
+
+Se escogió debido a ...
+
+En cuanto a la evolución de la hipótesis, esta se vio acotada luego de la investigación. Iniciamos planteando el tema de la falta de fiscalización, y que el reciclaje de bolsas era insuficiente, sin embargo, nos acotamos a abarcar el tema de la contaminación de las bolsas, los diferentes tipos de materiales existentes, y el impacto de las bolsas de origen vegetal. 
+
+En cuanto a la evolución de la narrativa que planteamos, en cuanto a la idea de iniciar desde un caso en que una persona común y corriente compraba y se le quedaba la bolsa, no tuvo mayor variación. Lo que si cambió, fue el tono del narrador a través del relato, ya que iniciamos en una persona gramatical menos cercana
