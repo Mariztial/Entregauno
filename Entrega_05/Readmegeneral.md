@@ -2,7 +2,7 @@
 
 *Video de presentación*: https://www.youtube.com/watch?v=5WV6FxWBi0Q
 
-*PDF presentación: https://uccl0-my.sharepoint.com/personal/catalinagallego_uc_cl/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcatalinagallego%5Fuc%5Fcl%2FDocuments%2FPpt%20Entrega%205%2Epdf&parent=%2Fpersonal%2Fcatalinagallego%5Fuc%5Fcl%2FDocuments&ct=1701408532596&or=OWA%2DNT&cid=d645108b%2Dbe54%2De38d%2D056b%2Db3bfca616f7b&ga=1
+*PDF presentación: https://uccl0-my.sharepoint.com/:b:/g/personal/catalinagallego_uc_cl/ERBPZCntT-VDigVAsMTWhdsBxJ_WPMIZwYz2TyzerB-VQA?e=V0L4ke
 
 *Web story*: acá tuvimos un problema
 https://github.com/Mariztial/Nudo_ecol-gico/actions/runs/7056076489
@@ -32,4 +32,8 @@ Integrante 2: María Paz Naudon
 
 Integrante 3: Catalina Gallego
 - Letra B (la segunda parte)
+- Letra C (parte)
+- Letra D (parte)
+- Letra F
+- Letra G (parte)
 - Presentación PDF
